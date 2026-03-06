@@ -1,4 +1,4 @@
-# About Me:
+# Hii, I'm Omkar 
 Learning, experimenting, and keeping it simple.
 
 
