@@ -9,9 +9,8 @@ I have a strong interest in problem solving and building efficient solutions thr
 
 
 ## Get Connected:
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=flat)](https://instagram.com/omkar.official01)
-[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=flat)](mailto:nagvekaromkar1992@gmail.com)
-
+[![Instagram](https://img.shields.io/badge/Instagram-black?logo=instagram)](https://instagram.com/omkar.official01)
+[![Email](https://img.shields.io/badge/Email-black?logo=gmail)](mailto:nagvekaromkar1992@gmail.com)
 
 # GitHub Stats:
 <center>
