@@ -1,66 +1,39 @@
-
-<table>
-<tr>
-<td width="55%">
-
-<h1>Hello, I'm Omkar 👋</h1>
+<h1 align="left">Hello, I'm Omkar 👋</h1>
 
 <p>
-BSc Computer Science student who enjoys building things with code.<br><br>
-
-I like experimenting with new ideas and building small projects.<br>
-Currently exploring <b>AI Engineering</b> through self-learning and hands-on development.
-</p>
-
-<br>
-
-<b>I can help with:</b>
-
-- Python Development  
-- React Applications  
-- Website UI using HTML & Tailwind CSS  
-- Problem Solving & DSA  
-- Experimenting with new ideas  
-
-<br>
-
-<a href="https://instagram.com/omkar.official01">
-<img src="https://img.shields.io/badge/Instagram-black?logo=instagram">
-</a>
-
-<a href="mailto:nagvekaromkar1992@gmail.com">
-<img src="https://img.shields.io/badge/Email-black?logo=gmail">
-</a>
-
-</td>
-
-<td width="45%">
-
-
-
-</td>
-</tr>
-</table>
-
----
-
-<h3>Tech I like working with</h3>
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,react,html,tailwind,js,git" />
+BSc Computer Science student who enjoys building things with code.<br>
+I like experimenting with new ideas and keeping things simple.<br>
+Currently exploring AI engineering through self-learning and small projects.
 </p>
 
 ---
 
-<h3>About Me</h3>
-
-<p>
-I’m currently pursuing a <b>BSc in Computer Science</b> and enjoy coding for fun while building small projects and experimenting with new ideas.
-
-I mainly work with <b>Python, React, HTML, and Tailwind CSS</b> to create simple and clean applications.
-
-Lately, I’ve been exploring <b>AI Engineering</b> through self-learning and personal projects, trying to understand how intelligent systems are built.
-</p>
+### What I enjoy working with
+- Python  
+- React  
+- HTML  
+- Tailwind CSS  
 
 ---
 
+### What I focus on
+I enjoy solving problems and building efficient solutions through code.  
+I have a good understanding of Data Structures and Algorithms and like improving my logical thinking through coding challenges.  
+
+Most of my work involves Python and React, and I enjoy **vibe coding** while experimenting with new ideas and projects.
+
+---
+
+### Connect
+[![Instagram](https://img.shields.io/badge/Instagram-black?logo=instagram)](https://instagram.com/omkar.official01)
+[![Email](https://img.shields.io/badge/Email-black?logo=gmail)](mailto:nagvekaromkar1992@gmail.com)
+
+---
+
+### Stats
+
+![](https://github-readme-stats.vercel.app/api?username=OMKARNZ&theme=highcontrast&hide_border=true&show_icons=true)
+
+![](https://nirzak-streak-stats.vercel.app/?user=OMKARNZ&theme=highcontrast&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=OMKARNZ&layout=compact&theme=highcontrast&hide_border=true)
