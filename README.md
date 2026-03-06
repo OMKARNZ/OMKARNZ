@@ -1,4 +1,4 @@
-<!-- HERO SECTION -->
+
 <table>
 <tr>
 <td width="55%">
@@ -64,14 +64,3 @@ Lately, I’ve been exploring <b>AI Engineering</b> through self-learning and pe
 
 ---
 
-<h3>GitHub Stats</h3>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=OMKARNZ&show_icons=true&theme=highcontrast&hide_border=true"/>
-
-<img src="https://nirzak-streak-stats.vercel.app/?user=OMKARNZ&theme=highcontrast&hide_border=true"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OMKARNZ&layout=compact&theme=highcontrast&hide_border=true"/>
-
-</p>
