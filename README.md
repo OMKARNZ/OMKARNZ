@@ -12,7 +12,8 @@ I have a strong interest in problem solving and building efficient solutions thr
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/omkar.official01) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nagvekaromkar1992@gmail.com) 
 
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=OMKARNZ&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false)<br/>
+# GitHub Stats:
+<center>![](https://github-readme-stats.vercel.app/api?username=OMKARNZ&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=OMKARNZ&theme=highcontrast&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=OMKARNZ&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+</center>
