@@ -1,5 +1,5 @@
-# 💫 About Me:
-I’m a Data Analyst & Full-Stack Developer skilled in Python, SQL, React, and Django.<br>I enjoy turning data into insights and building scalable web applications.<br>Currently sharpening my advanced SQL, data storytelling, and system design skills.<br>Passionate about solving real-world problems with data + technology
+# About Me:
+Learning, experimenting, and keeping it simple.
 
 
 ## 🌐 Socials:
