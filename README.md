@@ -1,4 +1,4 @@
-<h1 align="left">Hello, I'm Omkar 👋</h1>
+<h1 align="left">Hello, I'm Omkar</h1>
 
 <p>
 BSc Computer Science student who enjoys building things with code.<br>
