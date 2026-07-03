@@ -1,7 +1,7 @@
 <h1 align="left">Hello, I'm Omkar</h1>
 
 <p>
-BSc Computer Science student who enjoys building things with code.<br>
+Computer Science student who enjoys building things with code.<br>
 I like experimenting with new ideas and keeping things simple.<br>
 Currently exploring AI engineering through self-learning and small projects.
 </p>
